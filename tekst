@@ -1,0 +1,52 @@
+Co to jest lutowanie?
+Od elektroników przez majsterkowiczów hobbystów po wszystkich nie należących do wymienionych grup zwykłych ludzi, wiele osób regularnie stosuje technikę znaną jako lutowanie do wykonywania obowiązków w pracy, rutynowych zadań związanych z montażem, konserwacją, rozwiązywaniem problemów, majsterkowaniu czy też hobbystycznie we wszelkiego rodzaju miejscach pracy lub przedmiotach i sprzęcie domowym.
+Lutowanie jest szczególnie powszechnym wymogiem w przypadku prac związanych z budowaniem obwodów, montażem PCB, prototypowaniem elektronicznym czy też naprawą podstawowych urządzeń domowych z jakich na co dzień korzystamy. Może jednak również okazać się niezwykle użyteczną i skuteczną techniką łączenia dwóch lub więcej powierzchni w wielu innych, bardziej ogólnych zastosowaniach.
+Co oznacza lutowanie?
+Krótko mówiąc, lutowanie jest powszechną i dość prostą metodą klejenia lub łączenia różnych rodzajów materiałów i komponentów ze sobą. Proces odbywa się przy użyciu niewielkiej ilości stopu metalu, zwanego lutem, oraz podgrzewanego ręcznego narzędzia zwanego lutownicą . Kiedy lutujesz elementy razem, zazwyczaj używasz gorącej metalowej końcówki żelaza do stopienia niewielkiej ilości stopu lutowniczego wokół i pomiędzy łączonymi elementami lub powierzchniami.
+Po schłodzeniu i utwardzeniu powstałe lutowane połączenie lub złącze jest uważane za trwałe. Zapewni ono bezpieczne, przewodzenie elektryczności (dla obwodów elektrycznych) i wodoszczelne (dla zastosowań hydraulicznych) połączenie pomiędzy lutowanymi częściami. Warto jednak zauważyć, że utwardzone luty można zwykle ponownie stopić i usunąć dość łatwo poprzez ponowne zastosowanie wystarczającej ilości ciepła. Pozwala to często na oddzielenie lub przerobienie części, które wcześniej były ze sobą lutowane, w razie potrzeby. Ten proces nazywa się wylutowywaniem, do którego wrócimy później.
+W tym opisie dla początkujących zostanie przedstawiony szybki przegląd odpowiednich technik lutowania dla kilku różnych scenariuszy i typów komponentów, jednocześnie podając przydatne wskazówki dotyczące bezpiecznego i dokładnego korzystania z lutownicy i innych kluczowych narzędzi. 
+Jak bezpiecznie lutować
+Podobnie jak w przypadku wszystkich czynności związanych pracą zawodową czy majsterkowaniem związanym z potencjalnie niebezpiecznymi narzędziami lub warunkami, świadomość bezpieczeństwa powinna zawsze być najwyższym priorytetem podczas przygotowań do prac lutowniczych. Jak zawsze, obejmuje to upewnienie się, że masz odpowiedni sprzęt ochrony osobistej przed rozpoczęciem pracy. Oznacza to również zapewnienie, że otoczenie jest dobrze przygotowane i jak najbardziej wolne od niepotrzebnych zagrożeń.
+Ponadto ważne jest, aby przed przystąpieniem do jakichkolwiek prac znać kluczowe podstawy bezpiecznego lutowania. Dla początkujących istnieje wiele aspektów bezpiecznego lutowania, o których należy pamiętać, aby prawidłowo lutować, jednocześnie stwarzając minimalne ryzyko dla siebie, narzędzi i środowiska.
+Najbardziej oczywistym zagrożeniem jest grot lutownicy, który musi być bardzo gorący, aby mógł spełniać swoją podstawową funkcję. Nawet podstawowe modele, które podłącza się bezpośrednio do gniazdka ściennego i nie oferują ręcznej regulacji temperatury (zazwyczaj jest to cecha stacji lutowniczych , pozwalająca na precyzyjne dostrojenie wydajności grotu) zwykle bardzo szybko nagrzewają się do około 400 stopni Celsjusza. Jest to wystarczająco gorące, aby spowodować poważne oparzenia w przypadku niewłaściwej obsługi.
+Bardziej zaawansowane modele i różne akcesoria dodatkowe mogą zapewnić szereg uspokajających wbudowanych funkcji bezpieczeństwa. Jednak nawet wersje kupione jako część kompleksowego zestawu lutowniczego mogą nieść ze sobą duży potencjał powodowania poważnych i trwałych obrażeń, jeśli są używane nieostrożnie.
+Oprócz ekstremalnego ciepła, istnieje kilka innych potencjalnych zagrożeń, na które należy zwrócić uwagę podczas lutowania. W szczególności należy pamiętać, że sam materiał lutowniczy może czasami „ostrzeliwać” po przegrzaniu z powodu kieszeni powietrznych lub zanieczyszczeń tworząc tzw. „efekt popcornu”. Oznacza to, że okulary ochronne są koniecznością, szczególnie dla początkujących.
+Co więcej, większość past i związków lutowniczych zawiera toksyczne pierwiastki, takie jak ołów i kalafonia - zawsze rozsądnie jest nosić rękawiczki podczas pracy z narzędziami i materiałami lutowniczymi oraz zapewnić odpowiednią wentylację miejsca pracy przed rozpoczęciem pracy.
+Lista kontrolna bezpieczeństwa lutowania
+Przed lutowaniem:
+•	Przeczytaj dokładnie wszystkie instrukcje dotyczące produktów i wytyczne dotyczące bezpieczeństwa i upewnij się, że znasz typowe zagrożenia
+•	Przeczytaj uważnie wykazy składników lutowniczych i dokumentację. Skontaktuj się bezpośrednio z dostawcami lub producentami, jeśli na etykiecie nie ma wystarczających informacji o potencjalnej toksyczności
+•	Upewnij się, że miejsce pracy jest czyste, uporządkowane, stabilne i wolne od źródeł zapłonu
+•	Sprawdź, czy pracujesz w dobrze wentylowanym pomieszczeniu z odpowiednim odciągiem oparów
+•	Zawsze noś okulary ochronne i używaj rękawic żaroodpornych do przenoszenia materiałów
+•	Sprawdź, czy używasz odpowiedniego rodzaju produktu do danego zadania — lutownice są dostępne w różnych rozmiarach i mocach, często przeznaczone do określonych zastosowań
+•	Nie używaj lutownicy ani innych elementów wyposażenia elektrycznego, które wykazują widoczne uszkodzenia korpusu narzędzia, okablowania lub wtyczki
+•	Zawsze wiedz, gdzie znajduje się najbliższa gaśnica i drogi ewakuacyjne
+Podczas lutowania:
+•	Nigdy nie próbuj lutować obwodów pod napięciem/zasilanych, zacisków, połączeń lub komponentów
+•	Trzymaj akcesoria do czyszczenia lutownicy, takie jak pady druciane i wilgotne gąbki lutownicze pod ręką, upewniając się, że grot lutownicy jest jak najbardziej wolny od nagromadzenia materiału podczas użytkowania
+•	Nigdy nie dotykaj lutownicy nigdzie poza izolowanym uchwytem
+•	Zawsze używaj pęsety i/lub rękawic do przytrzymywania powierzchni i elementów, które są (lub były ostatnio!) lutowane
+•	Uważaj na potencjalne plucie z roztopionych stopów i zawsze zakładaj okulary ochronne podczas topienia lutowia
+•	Zawsze odstawiaj lutownicę/kolbę do miejsca przeznaczonego dla tego urządzenia, gdy nie jest używane - nigdy nie kładź go bezpośrednio na powierzchni roboczej, stole lub innym miejscu przy którym wykonujesz pracę
+•	Sprawdź, czy stojak jest wystarczająco obciążony lub wystarczająco stabilny, aby nie doszło do jego przewrócenia pod ciężarem przewodu lub gdy przypadkowo o niego zahaczysz - jeśli tak się stanie, nie próbuj chwytać lutownicy w momencie upadku
+•	Jeśli doznasz poparzenia, natychmiast trzymaj go pod zimną bieżącą wodą przez co najmniej 10-15 minut przed wykonaniem wszelkich niezbędnych procedur pierwszej pomocy
+Zawsze wyłączaj lutownicę lub stację w gniazdku, jeśli chcesz pozostawić ją bez nadzoru w dowolnym momencie
+Co to jest rozlutowywanie?
+Omówiliśmy co to jest lutowanie oraz jak się do niego zabrać w bezpieczny nieinwazyjny sposób wiec teraz należy wspomnieć co to jest rozlutowywanie. Rozlutowywanie jest to proces odwrotny do lutowanie i polega na usuwaniu utwardzonego materiału lutowniczego z wcześniej lutowanego złącza, powierzchni lub elementu. Przy wystarczającej staranności i wiedzy można to zrobić za pomocą zwykłej lutownicy - istnieje jednak wiele dedykowanych narzędzi i akcesoriów do rozlutowywania, które znacznie ułatwiają i uprzyjemniają pracę. Obejmują one:
+•	dsysacz
+•	Rozlutownice 
+•	Wszelkiego rodzaju plecionki
+•	Końcówki rozlutownicy
+
+
+Techniki lutowania do różnych zadań
+Chociaż istnieje wiele wskazówek, technik i zasad dotyczących ogólnych prac lutowniczych, które mają mniej lub bardziej uniwersalne zastosowanie, niezależnie od rodzaju wykonywanej pracy, niektóre konkretne naprawy wymagają bardziej zindywidualizowanego podejścia. Możesz także kupić szeroką gamę przejściówek i dodatków do lutownicy, które znacznie ułatwią i usprawnią poszczególne rodzaje pracy.
+Poniżej wymienione zostały sekcje dla kilku różnych obszarów, rodzajów i technik lutowania, z którymi warto się zapoznać, jeśli chcesz móc zająć się szerszym zakresem zadań lutowniczych.
+Jak lutować drut
+Dla większości ludzi „codzienne” zadanie lutowania może wiązać się z naprawą lub ulepszeniem istniejącego połączenia elektrycznego. Bardzo często może to wymagać znajomości sposobu lutowania przewodu - a dokładniej lutowania dwóch przewodów razem. Byłoby to ogólnie uważane za dość standardowy, powszechny przykład pracy lutowniczej i jest ogólnie bardzo osiągalne przy użyciu podstawowego zestawu typowych narzędzi i materiałów.
+Jak lutować płytkę drukowaną?
+Jeśli chodzi o wiedzę na temat lutowania płytek drukowanych, warto zauważyć, że istnieje kilka różnych technik używanych specjalnie do lutowania elektronicznego – a zwłaszcza do dodawania komponentów do płytki drukowanej (PCB). Większość elementów PCB zaprojektowano do montażu na dwa sposoby – metodą przewlekaną lub powierzchniową. Prawidłowe podejście w każdym scenariuszu będzie podyktowane rodzajem płyty i komponentu, z którym pracujesz.
+Jak lutować rurkę miedzianą
+Alternatywną pracą jest umiejętność prawidłowego lutowania rurek miedzianych. W przeciwieństwie do większości innych rodzajów lutowania połączeń (w szczególności prac elektrycznych/PCB) celem lutowania rur miedzianych jest często uzyskanie szczelnego połączenia. Celem jest uzyskanie niezawodnego i stałego przepływu wody przez dwie lub więcej odcinków rur.
+Wymaga to raczej innego zestawu narzędzi i technik niż standardowa praca przy lutowaniu elektronicznym. Przede wszystkim prawdopodobnie będziesz potrzebować palnika gazowego lub specjalnie zaprojektowanej lutownicy do instalacji wodociągowych do zastosowań związanych z przewodami i rurociągami. W rezultacie fizyczny proces faktycznego nagrzewania i uszczelniania złącza lutem również jest inny.
